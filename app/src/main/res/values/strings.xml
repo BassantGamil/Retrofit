@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="comments">Comments</string>
+    <string name="body">Body</string>
+    <string name="title">Title</string>
+    <string name="id">ID</string>
+    <string name="user_id">User ID</string>
+    <string name="show_all"><![CDATA[<<Show All>>]]></string>
+    <string name="Posts">posts</string>
+</resources>
